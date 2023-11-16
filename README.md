@@ -2,7 +2,7 @@
 
 
 # TypeScript
-![TypeScript Logo](https://th.bing.com/th/id/R.01b1cbb318f8cfc43b756500aa085a23?rik=zlJV12T1l%2bwZDw&pid=ImgRaw&r=0)
+![TypeScript Logo](https://3.bp.blogspot.com/-CkHXZQedW5U/XJ-u83mDMzI/AAAAAAAALR0/_wq-4yDcktkFwfXms3XoZp51VwxoeDEUwCLcBGAs/s1600/typescript-banner1-1.jpg)
 ## Introduction
 
 TypeScript is a syntactic superset of JavaScript which adds static typing[^1^][1]. It is an open-source pure object-oriented programming language[^2^][3] and is designed for large-scale JavaScript application development[^2^][3]. TypeScript is built on top of JavaScript and introduces syntax enhancements[^3^][4].
