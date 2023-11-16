@@ -17,6 +17,7 @@ A common way to use TypeScript is to use the official TypeScript compiler, which
 
 
 ## Features
+![TypeScript Logo](https://th.bing.com/th/id/R.f76be02d00fcbe6d4ca9abfa3087ab4a?rik=CjNBLuzNjp0tPA&pid=ImgRaw&r=0)
 
 ### Static Typing
 
