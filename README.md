@@ -45,7 +45,7 @@ You can compile TypeScript files using the TypeScript compiler. For example, if 
 
 When working with images in TypeScript, you might encounter some issues due to the static typing system. For example, if you're trying to import an image file in a TypeScript file, you might get an error because TypeScript doesn't recognize the image file format.
 
-To solve this issue, you can declare a module for image files in a declaration file (`.d.ts`). Here's an example:
+To solve this issue, you can declare a module for image files in a declaration file (`.d.ts`). Here's an example for YOu:
 
 ```typescript
 declare module "*.png";
