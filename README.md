@@ -48,4 +48,4 @@ When working with images in TypeScript, you might encounter some issues due to t
 To solve this issue, you can declare a module for image files in a declaration file (`.d.ts`). Here's an example for YOu:
 
 ```typescript
-declare module "*.png";
+declare module "*.png"
